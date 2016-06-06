@@ -53,7 +53,7 @@ Done!
 Created demo.gif
 ```
 
-![GIF example](https://izacus.github.io/RoboGif/images/demo.gif)
+<img src="https://izacus.github.io/RoboGif/images/demo.gif" width=300 />
 
 ### 录制mp4
 
